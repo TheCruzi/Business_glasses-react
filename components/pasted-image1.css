@@ -1,0 +1,16 @@
+.pasted-image1-container {
+  display: flex;
+  position: relative;
+}
+.pasted-image1-pasted-image {
+  height: 80px;
+}
+.pasted-image1-root-class-name {
+  right: 272px;
+  width: auto;
+  bottom: 0px;
+  height: auto;
+  position: static;
+  align-self: center;
+  background-color: var(--dl-color-gray-white);
+}
